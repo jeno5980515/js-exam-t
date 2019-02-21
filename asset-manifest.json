@@ -1,15 +1,15 @@
 {
-  "main.css": "/js-exam/static/css/main.ede4eaa2.chunk.css",
-  "main.js": "/js-exam/static/js/main.4f79f1fe.chunk.js",
-  "main.js.map": "/js-exam/static/js/main.4f79f1fe.chunk.js.map",
-  "static/css/1.62891c25.chunk.css": "/js-exam/static/css/1.62891c25.chunk.css",
-  "static/js/1.b0297904.chunk.js": "/js-exam/static/js/1.b0297904.chunk.js",
-  "static/js/1.b0297904.chunk.js.map": "/js-exam/static/js/1.b0297904.chunk.js.map",
-  "runtime~main.js": "/js-exam/static/js/runtime~main.0e05c472.js",
-  "runtime~main.js.map": "/js-exam/static/js/runtime~main.0e05c472.js.map",
-  "static/css/1.62891c25.chunk.css.map": "/js-exam/static/css/1.62891c25.chunk.css.map",
-  "static/css/main.ede4eaa2.chunk.css.map": "/js-exam/static/css/main.ede4eaa2.chunk.css.map",
-  "index.html": "/js-exam/index.html",
-  "precache-manifest.8d94e7b82ef7d9b38e4fb8546f211eac.js": "/js-exam/precache-manifest.8d94e7b82ef7d9b38e4fb8546f211eac.js",
-  "service-worker.js": "/js-exam/service-worker.js"
+  "main.css": "/js-exam-t/static/css/main.ede4eaa2.chunk.css",
+  "main.js": "/js-exam-t/static/js/main.00b93802.chunk.js",
+  "main.js.map": "/js-exam-t/static/js/main.00b93802.chunk.js.map",
+  "static/css/1.62891c25.chunk.css": "/js-exam-t/static/css/1.62891c25.chunk.css",
+  "static/js/1.569de4fb.chunk.js": "/js-exam-t/static/js/1.569de4fb.chunk.js",
+  "static/js/1.569de4fb.chunk.js.map": "/js-exam-t/static/js/1.569de4fb.chunk.js.map",
+  "runtime~main.js": "/js-exam-t/static/js/runtime~main.c90e43ba.js",
+  "runtime~main.js.map": "/js-exam-t/static/js/runtime~main.c90e43ba.js.map",
+  "static/css/1.62891c25.chunk.css.map": "/js-exam-t/static/css/1.62891c25.chunk.css.map",
+  "static/css/main.ede4eaa2.chunk.css.map": "/js-exam-t/static/css/main.ede4eaa2.chunk.css.map",
+  "index.html": "/js-exam-t/index.html",
+  "precache-manifest.b7e24eda66138b11d371238654237662.js": "/js-exam-t/precache-manifest.b7e24eda66138b11d371238654237662.js",
+  "service-worker.js": "/js-exam-t/service-worker.js"
 }
